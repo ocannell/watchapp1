@@ -20,14 +20,20 @@ class StartActivity : Activity() {
         // 1. Save State
         prefs.edit().putLong("TIMER_END_TIME", triggerTime).commit()
         
-        // 2. Set Alarm
+        // 2. Set Alarm (use AlarmClock to bypass standby quotas)
         val alarmManager = getSystemService(Context.ALARM_SERVICE) as AlarmManager
         val alarmIntent = Intent(this, AlarmReceiver::class.java)
         val pendingIntent = PendingIntent.getBroadcast(
-            this, 101, alarmIntent, 
+            this, 101, alarmIntent,
             PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
         )
-        alarmManager.setExactAndAllowWhileIdle(AlarmManager.RTC_WAKEUP, triggerTime, pendingIntent)
+        val showIntent = Intent(this, MainActivity::class.java)
+        val showPendingIntent = PendingIntent.getActivity(
+            this, 102, showIntent,
+            PendingIntent.FLAG_UPDATE_CURRENT or PendingIntent.FLAG_IMMUTABLE
+        )
+        val alarmClockInfo = AlarmManager.AlarmClockInfo(triggerTime, showPendingIntent)
+        alarmManager.setAlarmClock(alarmClockInfo, pendingIntent)
         
         // 3. Refresh Tile
         TileService.getUpdater(this).requestUpdate(TimerTileService::class.java)
