@@ -1,0 +1,427 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:2:1-87:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\a44b360e83d1ad41fc3f945e22289499\transformed\viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\38abe0e86ec8af550e8a21ef2de5e066\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\67e21df50e6a663c8bb49a13ed67833b\transformed\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\6d0319f1d00a2e908959f6dfa075796c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\35b98967fd19b40f1a817238ee161bcd\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\8d23816ca70fc56f43cfb62a59c25f5c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.wear.watchface:watchface-complications:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\dfbd83bdde094ba55ce4fe9c5180baf7\transformed\watchface-complications-1.1.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\7e6d1337eea8a393a460767b98995809\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\eced860e9a933dc5d5ccf588fd98f104\transformed\preference-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Oli__\.gradle\caches\transforms-3\6d54cfc8f453adfcc27f06c75e201376\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Oli__\.gradle\caches\transforms-3\3eeddbcd45be047ed2d7b1d8d4679b39\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\9a0cec61c7bd764907b0b68a97e82e04\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\cafa1681bb1dfd8f507c801e843e5f56\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\66d69c2d45cba0b015a8b4d56269e8f2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\2b4d5def8929b9be72508ea3a3cdab7c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\a49572c2232a66896cc05a347af388f0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\e8c5734ee6f6e4ef718b18828e721261\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Oli__\.gradle\caches\transforms-3\a3064b55f7e452e731716eb5e1fa51a4\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\48a153a700b78e91284b2dca9fa78d0a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\141c1b5f9ec12266dc40a53450fa0cf0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\7dc824a555e3e3675e3488f1a63da1d4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\7ecb771f0f4409669fad6de8ef5c19bc\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\ef75778674586b9b7c56110b80ffc4d3\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\99db397702e8a7487d0acf0eb0aa3d05\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\0e21b8b143a9eca812fc37f7cee0557f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\401b8410c774ed4323a9526ea2ffb5f4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\045c2cbcb0365f71e1dd829fb6ce17d8\transformed\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\88a7e4b8b75067d6534d035aed49bdba\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\a9a76cc0cfbcbcfd575f535bd74a595b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\18d74710349e1d99f9ac70fc484e40ec\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\56a7829038404251dd911c88f980c21c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c4b600f3391ec82b73fe8da1a79a36d\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.wear.tiles:tiles-material:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\a8f42db46233b08415eb79496b8575fe\transformed\tiles-material-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d66582fe9e624e9ea26b8752ae213d6\transformed\tiles-1.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\bf276fbfacd3d9eef4dbe3237c8390d6\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Oli__\.gradle\caches\transforms-3\b30aa84d8b8b25b6b4292b6f2ffc7dee\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\93a030528cee287bd3c372bd0198e42f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\0ddf7841bdd4ce3ede357638c6461279\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\da53eed3863c5a922440250db13866a7\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\60ae92939ed20d4a70a881414bcbb19b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\4664026ac74549512c726b1440c5241c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\08340183b491e2a3553f1992fe040624\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\ec50865d636a9223ff9c2d5aae57c08d\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\ebfcb1da3c966ad5fb5c662bc0d7765b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\666eb814dc547c4855fefe44a5be6a70\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\f02a090ffcfa787760f499f8a43c7a77\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\f5c0f844996419a20f1f10563c708c15\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\12be0e3f8a4cfd1e7acf7c0a04f32643\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:4:5-68
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:4:22-65
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:5:22-74
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.USE_EXACT_ALARM
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:9:22-78
+uses-feature#android.hardware.type.watch
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:12:19-61
+application
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:14:5-85:19
+INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:14:5-85:19
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\38abe0e86ec8af550e8a21ef2de5e066\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\38abe0e86ec8af550e8a21ef2de5e066\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\35b98967fd19b40f1a817238ee161bcd\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\35b98967fd19b40f1a817238ee161bcd\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\8d23816ca70fc56f43cfb62a59c25f5c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\8d23816ca70fc56f43cfb62a59c25f5c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\7e6d1337eea8a393a460767b98995809\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\7e6d1337eea8a393a460767b98995809\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:9:5-13:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Oli__\.gradle\caches\transforms-3\3eeddbcd45be047ed2d7b1d8d4679b39\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Oli__\.gradle\caches\transforms-3\3eeddbcd45be047ed2d7b1d8d4679b39\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\9a0cec61c7bd764907b0b68a97e82e04\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\9a0cec61c7bd764907b0b68a97e82e04\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\93a030528cee287bd3c372bd0198e42f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\93a030528cee287bd3c372bd0198e42f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:19:9-59
+activity#com.example.cravingtimer.MainActivity
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:21:9-30:20
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:25:13-63
+	android:taskAffinity
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.cravingtimer.StartActivity
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:32:9-35:75
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:35:13-72
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:33:13-42
+activity#com.example.cravingtimer.CancelActivity
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:37:9-40:75
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:39:13-36
+	android:theme
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:40:13-72
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:38:13-43
+receiver#com.example.cravingtimer.AlarmReceiver
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:42:9-75
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:42:49-73
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:42:19-48
+receiver#com.example.cravingtimer.BootReceiver
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:43:17-48:20
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:43:56-79
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:43:27-55
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:45:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:46:25-81
+receiver#com.example.cravingtimer.TileActionReceiver
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:49:54-78
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:49:19-53
+intent-filter#action:name:com.example.cravingtimer.ACTION_CANCEL
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:50:13-52:29
+action#com.example.cravingtimer.ACTION_CANCEL
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:51:17-81
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:51:25-78
+service#com.example.cravingtimer.CustomComplicationService
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:55:9-72:19
+	android:label
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:58:13-42
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:57:13-36
+	android:permission
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:60:13-99
+	android:icon
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:59:13-54
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:56:13-54
+intent-filter#action:name:android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST+category:name:android.support.wearable.complications.category.PROVIDER
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:61:13-64:29
+action#android.support.wearable.complications.ACTION_COMPLICATION_UPDATE_REQUEST
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:62:17-116
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:62:25-113
+category#android.support.wearable.complications.category.PROVIDER
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:63:17-101
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:63:27-98
+meta-data#android.support.wearable.complications.SUPPORTED_TYPES
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:66:13-68:73
+	android:value
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:68:17-70
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:67:17-86
+meta-data#android.support.wearable.complications.UPDATE_PERIOD_SECONDS
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:69:13-71:37
+	android:value
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:71:17-34
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:70:17-92
+service#com.example.cravingtimer.TimerTileService
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:74:9-84:19
+	android:label
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:76:13-42
+	android:exported
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:78:13-36
+	android:permission
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:79:13-91
+	android:icon
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:77:13-54
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:75:13-45
+intent-filter#action:name:androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:80:13-82:29
+action#androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:81:17-88
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:81:25-85
+meta-data#androidx.wear.tiles.PREVIEW
+ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:83:13-125
+	android:resource
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:83:67-122
+	android:name
+		ADDED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml:83:24-66
+uses-sdk
+INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\a44b360e83d1ad41fc3f945e22289499\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\a44b360e83d1ad41fc3f945e22289499\transformed\viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\38abe0e86ec8af550e8a21ef2de5e066\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:18.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\38abe0e86ec8af550e8a21ef2de5e066\transformed\play-services-wearable-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\67e21df50e6a663c8bb49a13ed67833b\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\67e21df50e6a663c8bb49a13ed67833b\transformed\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\6d0319f1d00a2e908959f6dfa075796c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\6d0319f1d00a2e908959f6dfa075796c\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\35b98967fd19b40f1a817238ee161bcd\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\35b98967fd19b40f1a817238ee161bcd\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\8d23816ca70fc56f43cfb62a59c25f5c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\8d23816ca70fc56f43cfb62a59c25f5c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\dfbd83bdde094ba55ce4fe9c5180baf7\transformed\watchface-complications-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\dfbd83bdde094ba55ce4fe9c5180baf7\transformed\watchface-complications-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\7e6d1337eea8a393a460767b98995809\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\7e6d1337eea8a393a460767b98995809\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\eced860e9a933dc5d5ccf588fd98f104\transformed\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\eced860e9a933dc5d5ccf588fd98f104\transformed\preference-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Oli__\.gradle\caches\transforms-3\6d54cfc8f453adfcc27f06c75e201376\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Oli__\.gradle\caches\transforms-3\6d54cfc8f453adfcc27f06c75e201376\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Oli__\.gradle\caches\transforms-3\3eeddbcd45be047ed2d7b1d8d4679b39\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Oli__\.gradle\caches\transforms-3\3eeddbcd45be047ed2d7b1d8d4679b39\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\9a0cec61c7bd764907b0b68a97e82e04\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\9a0cec61c7bd764907b0b68a97e82e04\transformed\play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.media:media:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\cafa1681bb1dfd8f507c801e843e5f56\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\cafa1681bb1dfd8f507c801e843e5f56\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\66d69c2d45cba0b015a8b4d56269e8f2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\66d69c2d45cba0b015a8b4d56269e8f2\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\2b4d5def8929b9be72508ea3a3cdab7c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\2b4d5def8929b9be72508ea3a3cdab7c\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\a49572c2232a66896cc05a347af388f0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\a49572c2232a66896cc05a347af388f0\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\e8c5734ee6f6e4ef718b18828e721261\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\e8c5734ee6f6e4ef718b18828e721261\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Oli__\.gradle\caches\transforms-3\a3064b55f7e452e731716eb5e1fa51a4\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Oli__\.gradle\caches\transforms-3\a3064b55f7e452e731716eb5e1fa51a4\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\48a153a700b78e91284b2dca9fa78d0a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\48a153a700b78e91284b2dca9fa78d0a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\141c1b5f9ec12266dc40a53450fa0cf0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\141c1b5f9ec12266dc40a53450fa0cf0\transformed\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\7dc824a555e3e3675e3488f1a63da1d4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\7dc824a555e3e3675e3488f1a63da1d4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\7ecb771f0f4409669fad6de8ef5c19bc\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\7ecb771f0f4409669fad6de8ef5c19bc\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\ef75778674586b9b7c56110b80ffc4d3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\ef75778674586b9b7c56110b80ffc4d3\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\99db397702e8a7487d0acf0eb0aa3d05\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\99db397702e8a7487d0acf0eb0aa3d05\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\0e21b8b143a9eca812fc37f7cee0557f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\0e21b8b143a9eca812fc37f7cee0557f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\401b8410c774ed4323a9526ea2ffb5f4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\401b8410c774ed4323a9526ea2ffb5f4\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\045c2cbcb0365f71e1dd829fb6ce17d8\transformed\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\045c2cbcb0365f71e1dd829fb6ce17d8\transformed\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\88a7e4b8b75067d6534d035aed49bdba\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\88a7e4b8b75067d6534d035aed49bdba\transformed\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\a9a76cc0cfbcbcfd575f535bd74a595b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\a9a76cc0cfbcbcfd575f535bd74a595b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\18d74710349e1d99f9ac70fc484e40ec\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\18d74710349e1d99f9ac70fc484e40ec\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\56a7829038404251dd911c88f980c21c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\56a7829038404251dd911c88f980c21c\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c4b600f3391ec82b73fe8da1a79a36d\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c4b600f3391ec82b73fe8da1a79a36d\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear.tiles:tiles-material:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\a8f42db46233b08415eb79496b8575fe\transformed\tiles-material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.tiles:tiles-material:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\a8f42db46233b08415eb79496b8575fe\transformed\tiles-material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d66582fe9e624e9ea26b8752ae213d6\transformed\tiles-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d66582fe9e624e9ea26b8752ae213d6\transformed\tiles-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\bf276fbfacd3d9eef4dbe3237c8390d6\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\bf276fbfacd3d9eef4dbe3237c8390d6\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Oli__\.gradle\caches\transforms-3\b30aa84d8b8b25b6b4292b6f2ffc7dee\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Oli__\.gradle\caches\transforms-3\b30aa84d8b8b25b6b4292b6f2ffc7dee\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\93a030528cee287bd3c372bd0198e42f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\93a030528cee287bd3c372bd0198e42f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\0ddf7841bdd4ce3ede357638c6461279\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\0ddf7841bdd4ce3ede357638c6461279\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\da53eed3863c5a922440250db13866a7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\da53eed3863c5a922440250db13866a7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\60ae92939ed20d4a70a881414bcbb19b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\60ae92939ed20d4a70a881414bcbb19b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\4664026ac74549512c726b1440c5241c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\4664026ac74549512c726b1440c5241c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\08340183b491e2a3553f1992fe040624\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\08340183b491e2a3553f1992fe040624\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\ec50865d636a9223ff9c2d5aae57c08d\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\ec50865d636a9223ff9c2d5aae57c08d\transformed\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\ebfcb1da3c966ad5fb5c662bc0d7765b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\ebfcb1da3c966ad5fb5c662bc0d7765b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\666eb814dc547c4855fefe44a5be6a70\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\666eb814dc547c4855fefe44a5be6a70\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\f02a090ffcfa787760f499f8a43c7a77\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Oli__\.gradle\caches\transforms-3\f02a090ffcfa787760f499f8a43c7a77\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\f5c0f844996419a20f1f10563c708c15\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\f5c0f844996419a20f1f10563c708c15\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\12be0e3f8a4cfd1e7acf7c0a04f32643\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\12be0e3f8a4cfd1e7acf7c0a04f32643\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Oli__\.gemini\antigravity\scratch\watchapp1\app\src\main\AndroidManifest.xml
+uses-library#com.google.android.wearable
+ADDED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:23:9-25:40
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\35b98967fd19b40f1a817238ee161bcd\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data-source-ktx:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\35b98967fd19b40f1a817238ee161bcd\transformed\watchface-complications-data-source-ktx-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\8d23816ca70fc56f43cfb62a59c25f5c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data-source:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\8d23816ca70fc56f43cfb62a59c25f5c\transformed\watchface-complications-data-source-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\7e6d1337eea8a393a460767b98995809\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:10:9-12:40
+MERGED from [androidx.wear.watchface:watchface-complications-data:1.1.1] C:\Users\Oli__\.gradle\caches\transforms-3\7e6d1337eea8a393a460767b98995809\transformed\watchface-complications-data-1.1.1\AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.wear:wear:1.3.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d7ce67ac57ac1a171ff8bcac0b609f2\transformed\wear-1.3.0\AndroidManifest.xml:24:13-55
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Oli__\.gradle\caches\transforms-3\5247b3b1f20ef61803458f9f65f294a4\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Oli__\.gradle\caches\transforms-3\8c0020b440624da439a205b0ae5d1bcb\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.cravingtimer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.cravingtimer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Oli__\.gradle\caches\transforms-3\9643920afc401bf92410edb017e2095b\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+queries
+ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d66582fe9e624e9ea26b8752ae213d6\transformed\tiles-1.1.0\AndroidManifest.xml:7:5-11:15
+intent#action:name:androidx.wear.tiles.action.BIND_UPDATE_REQUESTER
+ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d66582fe9e624e9ea26b8752ae213d6\transformed\tiles-1.1.0\AndroidManifest.xml:8:9-10:18
+action#androidx.wear.tiles.action.BIND_UPDATE_REQUESTER
+ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d66582fe9e624e9ea26b8752ae213d6\transformed\tiles-1.1.0\AndroidManifest.xml:9:13-87
+	android:name
+		ADDED from [androidx.wear.tiles:tiles:1.1.0] C:\Users\Oli__\.gradle\caches\transforms-3\4d66582fe9e624e9ea26b8752ae213d6\transformed\tiles-1.1.0\AndroidManifest.xml:9:21-84

@@ -1,0 +1,15 @@
+R_DEF: Internal format may change without notice
+local
+id btnMinus
+id btnPlus
+id mainButton
+id minLabel
+id timerText
+layout activity_main
+mipmap ic_launcher
+string app_name
+string cancel_timer
+string channel_description
+string channel_name
+string craving_question
+string timer_finished

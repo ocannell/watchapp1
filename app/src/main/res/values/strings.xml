@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Craving Timer</string>
+    <string name="cancel_timer">Cancel</string>
+    <string name="timer_finished">Time is up!</string>
+    <string name="craving_question">Are you still craving?</string>
+    <string name="channel_name">Timer Notifications</string>
+    <string name="channel_description">Notifications when the timer finishes</string>
+</resources>
